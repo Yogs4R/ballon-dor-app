@@ -44,7 +44,7 @@ This project demonstrates core Android development concepts, including:
 
 |   List Page   |   Detail Page   |   About Page   |
 | :-----------: | :-------------: | :------------: |
-| ![List Preview](./List_Ballon_d'Or_Winners.png) | ![Detail Preview](./Detail_Ballon_d'Or_Winners.png) | ![About Preview](./About_Ballon_d'Or_Winners.png) |
+| ![List Preview](./preview/List_Ballon_d'Or_Winners.png) | ![Detail Preview](./preview/Detail_Ballon_d'Or_Winners.png) | ![About Preview](./preview/About_Ballon_d'Or_Winners.png) |
 
 ## 💻 How to Run
 
