@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Ballon d\'Or Winners</string>
+    <string name="share">Share</string>
+    <string name="about">About</string>
+    <string name="statistik">Statistik</string>
+    <string name="nama_panjang">Ridwan Yoga Suryantara</string>
+    <string name="email_dicoding">ridwansuryantara@gmail.com</string>
+    <string-array name="data_name">
+        <item>Ousmane Dembélé (2025)</item>
+        <item>Rodri (2024)</item>
+        <item>Lionel Messi (2023)</item>
+        <item>Karim Benzema (2022)</item>
+        <item>Lionel Messi (2021)</item>
+        <item>Lionel Messi (2019)</item>
+        <item>Luka Modric (2018)</item>
+        <item>Cristiano Ronaldo (2017)</item>
+        <item>Cristiano Ronaldo (2016)</item>
+        <item>Lionel Messi (2015)</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Ousmane Dembélé memenangkan Ballon d\'Or 2025 atas penampilannya yang sensasional di musim 2024–2025 bersama Paris Saint-Germain (PSG), di mana ia memimpin klub meraih treble bersejarah (Ligue 1, Coupe de France, Liga Champions pertama kalinya) dengan statistik luar biasa (35 gol, 16 assist).</item>
+        <item>Gelandang bertahan yang menjadi pilar utama Manchester City dan Timnas Spanyol. Rodri memenangkan Ballon d\'Or berkat peran krusialnya membawa Spanyol juara Euro 2024 dan City juara Premier League. Metronom lini tengah terbaik.</item>
+        <item>Gelar kedelapan yang bersejarah. Penghargaan ini didedikasikan untuk pencapaian legendarisnya membawa Argentina menjuarai Piala Dunia 2022 di Qatar, melengkapi koleksi trofi dalam kariernya yang gemilang.</item>
+        <item>Striker asal Prancis ini tampil fenomenal dengan mencetak gol-gol krusial di Liga Champions (hattrick vs PSG &amp; Chelsea) yang membawa Real Madrid meraih gelar juara Eropa ke-14 dan La Liga.</item>
+        <item>Messi meraih gelar ketujuhnya setelah akhirnya berhasil mempersembahkan trofi internasional pertama bagi Argentina, yaitu Copa America 2021, di mana ia juga menjadi top skor dan pemain terbaik turnamen.</item>
+        <item>Tampil dominan secara individu bersama Barcelona dengan mencetak gol terbanyak di Eropa dan memenangkan Sepatu Emas, meski klubnya gagal di pentas Liga Champions. Skill individunya tak tertandingi tahun ini.</item>
+        <item>Gelandang jenius yang mematahkan dominasi Messi-Ronaldo. Modric memimpin Kroasia ke final Piala Dunia 2018 dan menjadi motor serangan Real Madrid saat menjuarai Liga Champions tiga kali berturut-turut.</item>
+        <item>Ronaldo menyamai rekor 5 Ballon d\'Or kala itu. Ia menjadi kunci Real Madrid mempertahankan gelar Liga Champions dan menjuarai La Liga, dengan mencetak gol-gol penentu di fase gugur kompetisi Eropa.</item>
+        <item>Tahun emas bagi CR7. Ia menjuarai Liga Champions bersama Real Madrid dan secara mengejutkan memimpin Portugal menjuarai Euro 2016, trofi besar pertama dalam sejarah negara tersebut.</item>
+        <item>Kembali ke puncak setelah treble winners bersejarah bersama Barcelona. Trio MSN (Messi, Suarez, Neymar) menjadi lini serang paling mematikan di dunia, dengan Messi sebagai otak serangannya.</item>
+    </string-array>
+
+    <string-array name="data_stats">
+        <item>🏆 Ligue 1, Coupe de France, Trophée des Champions, UEFA Champions League, UEFA Super Cup | ⚽ 35 | 🎯 16</item>
+        <item>🏆 UEFA Euro 2024, Premier League, FIFA Club World Cup | ⚽ 12 | 🎯 15</item>
+        <item>🏆 FIFA World Cup 2022, Ligue 1, Trophée des Champions | ⚽ 38 | 🎯 25</item>
+        <item>🏆 UEFA Champions League, La Liga, UEFA Nations League | ⚽ 44 | 🎯 15</item>
+        <item>🏆 Copa América, Copa del Rey | ⚽ 38 | 🎯 14</item>
+        <item>🏆 La Liga, Supercopa de España | ⚽ 51 | 🎯 22</item>
+        <item>🏆 UEFA Champions League, FIFA Club World Cup, World Cup Runner-up | ⚽ 5 | 🎯 11</item>
+        <item>🏆 UEFA Champions League, La Liga, FIFA Club World Cup | ⚽ 42 | 🎯 12</item>
+        <item>🏆 UEFA Champions League, UEFA Euro 2016 | ⚽ 51 | 🎯 15</item>
+        <item>🏆 UEFA Champions League, La Liga, Copa del Rey (Treble Winner) | ⚽ 58 | 🎯 27</item>
+    </string-array>
+</resources>
